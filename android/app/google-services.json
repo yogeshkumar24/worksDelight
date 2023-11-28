@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671880481063",
+    "project_id": "newtask-d4193",
+    "storage_bucket": "newtask-d4193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671880481063:android:c1772acdb366e247744102",
+        "android_client_info": {
+          "package_name": "com.works_delight.works_delight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCN78yH7VhevypFq0jj6ojOrmfaYbB0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

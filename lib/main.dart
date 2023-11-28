@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:work_delight_task/auth/ui/login_screen.dart';
 
 import 'firebase_options.dart';
-
+//  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
 Future main() async {
   await init();
   runApp(const MyApp());
@@ -28,5 +28,20 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
         ),
         home: const LoginScreen());
+  }
+}
+
+
+class MathOperations {
+  int add(int a, int b) {
+    return a + b;
+  }
+}
+
+
+class A extends MathOperations{
+  @override
+  int add(int a, int b) {
+    return super.add(a, b);
   }
 }
